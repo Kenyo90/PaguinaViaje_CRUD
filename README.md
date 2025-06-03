@@ -1,3 +1,3 @@
 # Page WEB
 
-<img [img](Page_web.png)>
+<img src="Page_web.png" alt="Mi paguina web" />
